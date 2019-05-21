@@ -1,0 +1,1 @@
+reference https://github.com/IBM/Scalable-Cassandra-deployment-on-Kubernetes
